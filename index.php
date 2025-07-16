@@ -8,6 +8,9 @@
 <body>
     <h3>Korea</h3>
     <p>Korea adalah ,</p>
+    <ul>
+        <li>1. Gyeongbokgung Palace</li>
+    </ul>
     <h3>Swiss</h3>
     <p>Swiss adalah</p>
     <h3>Japan</h3>
