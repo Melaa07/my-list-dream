@@ -7,7 +7,10 @@
 </head>
 <body>
     <h3>Korea</h3>
+    <p>Korea adalah ,</p>
     <h3>Swiss</h3>
+    <p>Swiss adalah</p>
     <h3>Japan</h3>
+    <p>Jepang adalah</p>
 </body>
 </html>
